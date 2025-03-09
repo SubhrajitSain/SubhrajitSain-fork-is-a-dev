@@ -1,0 +1,12 @@
+{
+  "description": "Personal website for ANW/ANormalWintrovert/SubhrajitSain",
+  "repo": "https://github.com/SubhrajitSain",
+  "owner": {
+    "username": "SubhrajitSain",
+    "email": "subhrajitsain34@gmail.com"
+  },
+  "record": {
+    "CNAME": "subhrajitsain.pythonanywhere.com"
+  },
+  "proxied": false
+}
