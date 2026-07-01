@@ -1,0 +1,12 @@
+{
+  "description": "Ablaze Search Engine & Website Proxy",
+  "owner": {
+    "username": "SubhrajitSain",
+    "email": "subhrajitsain34@gmail.com",
+    "github": "https://github.com/SubhrajitSain/ablaze"
+  },
+  "records": {
+    "CNAME": "ablaze-psi.vercel.app",
+  },
+  "proxied": true
+}
